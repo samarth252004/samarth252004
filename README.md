@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development projects, including platforms like Edu-Notifier and Opportunity Orbit.<br>👯 I’m looking to collaborate on innovative web applications that utilize React, Node.js, and database integrations.<br>🤝 I’m looking for help with advancing my skills in cloud technologies and scalable web architectures.<br>🌱 I’m currently learning advanced React, Node.js, and optimizing SQL databases for dynamic applications.<br>💬 Ask me about full-stack development, user-friendly interface design, and database management.<br>⚡ Fun fact: I’m fluent in four languages and enjoy discovering ways to make tech solutions more accessible across different user bases!
+🔭 I’m currently a MCA student at PRESIDENCY COLLEGE BENGLORE.<br>👯 I’m looking to collaborate on innovative web applications that utilize React, Node.js, and database integrations.<br>🤝 I’m looking for help with advancing my skills in cloud technologies and scalable web architectures.<br>🌱 I’m currently learning advanced React, Node.js, and optimizing SQL databases for dynamic applications.<br>💬 Ask me about full-stack development, user-friendly interface design, and database management.<br>⚡ Fun fact: I’m fluent in four languages and enjoy discovering ways to make tech solutions more accessible across different user bases!
 
 
 ## 🌐 Socials:
